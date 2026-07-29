@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1997
+slug  : the-low-pass-filter
+seal  : ab239abf9a66fb66c223ba302cc9b4ccd2173064f3668b626f91df6650b929f0
+prev  : 5abf8371822aefa7beaa61599526e4fdccaa5709839eca775617a4313815019e
+link  : 0af3e9fce907a9bd27b5ef811847002114712948d2e69946b0cb1596f6c908da
+head  : d5130fa8084e22920f9c8b46164a16001a5f80398384b2adc25f1fdd63cb786a
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
